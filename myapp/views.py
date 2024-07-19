@@ -9,10 +9,7 @@ from .models import UploadedImage
 
 from myapp.models import UploadedImage
 
-
-
-# User = get_user_model()
-
+# User = get_user_model()#
 
 # @login_required
 def upload_image(request):
